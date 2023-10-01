@@ -12,6 +12,10 @@ Curated by Cas van Vliet: https://casvanvliet.com
 
 https://stablediffusionweb.com/
 
+**DALL-E mini**
+
+https://dallemini.com/
+
 **Adobe Firefly**
 
 https://www.adobe.com/sensei/generative-ai/firefly.html
