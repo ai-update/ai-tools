@@ -8,6 +8,10 @@ Curated by Cas van Vliet: https://casvanvliet.com
 
 # Images
 
+**Stable Diffusion Web**
+
+https://stablediffusionweb.com/
+
 **Adobe Firefly**
 
 https://www.adobe.com/sensei/generative-ai/firefly.html
