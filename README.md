@@ -24,7 +24,7 @@ The purpose of this curated collection is to offer a diverse range of tools to u
 
 🖳 **Codeium**
 
-https://codeium.com/
+> https://codeium.com/
 
 # 🖼 Images
 
