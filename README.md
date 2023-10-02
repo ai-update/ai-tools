@@ -8,14 +8,25 @@ https://casvanvliet.substack.com
 
 # Images
 
-**Stable Diffusion Web**
+**Adobe Firefly**
 
-https://stablediffusionweb.com/
+https://www.adobe.com/sensei/generative-ai/firefly.html
 
 **DALL-E mini**
 
 https://dallemini.com/
 
-**Adobe Firefly**
+**Stable Diffusion Web**
 
-https://www.adobe.com/sensei/generative-ai/firefly.html
+https://stablediffusionweb.com/
+
+**Codeium**
+
+https://codeium.com/
+
+**El Pintador**
+Free Stable Diffusion artwork generator for iOS.
+**DiffusionBee**
+Stable Diffusion artwork generator for MacOS, works offline with no usage limits.
+**Craiyon**
+Artwork generator that uses the Dall-E Mini model.
