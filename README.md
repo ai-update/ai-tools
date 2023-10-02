@@ -8,13 +8,13 @@
 
 ## 🎧 Audio 
 
-### 🗣️ Whisper
+### Whisper
 
 *Transcribe audio files.*
 
 > https://replicate.com/openai/whisper
 
-### 🗣️ Buzz
+### Buzz
 
 *Transcribe audio files (offline) in Windows.*
 
@@ -22,38 +22,38 @@
 
 ## 🖳 Coding
 
-### 🖳 Codeium
+### Codeium
 
 > https://codeium.com/
 
 ## 🖼 Images
 
-### 🪰 Adobe Firefly
+### Adobe Firefly
 
 > https://www.adobe.com/sensei/generative-ai/firefly.html
 
-### 🖌 Craiyon
+### Craiyon
 
 *Artwork generator that uses the Dall-E Mini model.*
 
 > https://www.craiyon.com/
 
-### 🎨 DALL-E mini
+### DALL-E mini
 
 > https://dallemini.com/
 
-### 🐝 DiffusionBee
+### DiffusionBee
 
 *Stable Diffusion artwork generator for MacOS.*
 
 > https://diffusionbee.com/
 
-### 🖌 El Pintador
+### El Pintador
 
 *Free Stable Diffusion artwork generator for iOS.*
 
 > https://apps.apple.com/us/app/el-pintador/
 
-### 🌐 Stable Diffusion Web
+### Stable Diffusion Web
 
 > https://stablediffusionweb.com/
