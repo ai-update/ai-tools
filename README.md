@@ -6,7 +6,7 @@ The purpose of this curated collection is to offer a diverse range of tools to u
 
 🌐  https://casvanvliet.substack.com
 
-# 🎧 Audio 
+## 🎧 Audio 
 
 🗣️ **Whisper**
 
@@ -20,13 +20,13 @@ The purpose of this curated collection is to offer a diverse range of tools to u
 
 > https://github.com/chidiwilliams/buzz/releases
 
-# 🖳 Coding
+## 🖳 Coding
 
 🖳 **Codeium**
 
 > https://codeium.com/
 
-# 🖼 Images
+## 🖼 Images
 
 🪰 **Adobe Firefly**
 
