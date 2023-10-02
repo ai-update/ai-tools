@@ -33,12 +33,12 @@ Stable Diffusion artwork generator for MacOS.
 
 https://diffusionbee.com/
 
-**Stable Diffusion Web**
-
-https://stablediffusionweb.com/
-
 **El Pintador**
 
 https://apps.apple.com/us/app/el-pintador/
 
 Free Stable Diffusion artwork generator for iOS.
+
+**Stable Diffusion Web**
+
+https://stablediffusionweb.com/
