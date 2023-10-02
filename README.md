@@ -8,21 +8,21 @@ The primary purpose of this curated collection is to offer a diverse range of to
 
 # 🎧 Audio 
 
-**Whisper**
+🗣️ **Whisper**
 
 https://replicate.com/openai/whisper
 
 *Transcribe audio files.*
 
-**Buzz**
+🗣️ **Buzz**
 
 https://github.com/chidiwilliams/buzz/releases
 
 *Transcribe audio files (offline) in Windows.*
 
-# Coding
+# 🖳 Coding
 
-**Codeium**
+🖳 **Codeium**
 
 https://codeium.com/
 
