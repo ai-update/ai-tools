@@ -1,8 +1,8 @@
 # Artificial Intelligence Tools
 
-A collection of tools that use artificial intelligence (A.I.).
+🔧 A collection of tools that use artificial intelligence (A.I.).
 
-The purpose of this curated collection is to offer a diverse range of tools to use A.I. effectively.
+✅ The purpose of this curated collection is to offer a diverse range of tools to use A.I. effectively.
 
 🌐  https://casvanvliet.substack.com
 
