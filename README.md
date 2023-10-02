@@ -17,9 +17,21 @@ https://codeium.com/
 
 https://www.adobe.com/sensei/generative-ai/firefly.html
 
+**Craiyon**
+
+https://www.craiyon.com/
+
+Artwork generator that uses the Dall-E Mini model.
+
 **DALL-E mini**
 
 https://dallemini.com/
+
+**DiffusionBee**
+
+Stable Diffusion artwork generator for MacOS.
+
+https://diffusionbee.com/
 
 **Stable Diffusion Web**
 
@@ -30,15 +42,3 @@ https://stablediffusionweb.com/
 https://apps.apple.com/us/app/el-pintador/
 
 Free Stable Diffusion artwork generator for iOS.
-
-**DiffusionBee**
-
-Stable Diffusion artwork generator for MacOS.
-
-https://diffusionbee.com/
-
-**Craiyon**
-
-https://www.craiyon.com/
-
-Artwork generator that uses the Dall-E Mini model.
