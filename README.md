@@ -27,12 +27,18 @@ https://stablediffusionweb.com/
 
 **El Pintador**
 
+https://apps.apple.com/us/app/el-pintador/
+
 Free Stable Diffusion artwork generator for iOS.
 
 **DiffusionBee**
 
-Stable Diffusion artwork generator for MacOS, works offline with no usage limits.
+Stable Diffusion artwork generator for MacOS.
+
+https://diffusionbee.com/
 
 **Craiyon**
+
+https://www.craiyon.com/
 
 Artwork generator that uses the Dall-E Mini model.
