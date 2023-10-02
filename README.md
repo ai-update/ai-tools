@@ -10,15 +10,15 @@ The primary purpose of this curated collection is to offer a diverse range of to
 
 🗣️ **Whisper**
 
-> https://replicate.com/openai/whisper
-
 *Transcribe audio files.*
+
+> https://replicate.com/openai/whisper
 
 🗣️ **Buzz**
 
-> https://github.com/chidiwilliams/buzz/releases
-
 *Transcribe audio files (offline) in Windows.*
+
+> https://github.com/chidiwilliams/buzz/releases
 
 # 🖳 Coding
 
@@ -34,9 +34,9 @@ https://codeium.com/
 
 🖌 **Craiyon**
 
-> https://www.craiyon.com/
-
 *Artwork generator that uses the Dall-E Mini model.*
+
+> https://www.craiyon.com/
 
 🎨 **DALL-E mini**
 
@@ -50,9 +50,9 @@ https://codeium.com/
 
 🖌 **El Pintador**
 
-> https://apps.apple.com/us/app/el-pintador/
-
 *Free Stable Diffusion artwork generator for iOS.*
+
+> https://apps.apple.com/us/app/el-pintador/
 
 🌐 **Stable Diffusion Web**
 
