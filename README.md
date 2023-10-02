@@ -5,19 +5,20 @@ A collection of tools that use artificial intelligence (A.I.).
 The primary purpose of this curated collection is to offer a diverse range of tools to use A.I. effectively.
 
 https://casvanvliet.substack.com
+
 # Audio 
 
 **Whisper**
 
 https://replicate.com/openai/whisper
 
-Transcribe audio files.
+*Transcribe audio files.*
 
 **Buzz**
 
 https://github.com/chidiwilliams/buzz/releases
 
-Transcribe audio files (offline) in Windows.
+*Transcribe audio files (offline) in Windows.*
 
 # Coding
 
@@ -35,7 +36,7 @@ https://www.adobe.com/sensei/generative-ai/firefly.html
 
 https://www.craiyon.com/
 
-Artwork generator that uses the Dall-E Mini model.
+*Artwork generator that uses the Dall-E Mini model.*
 
 **DALL-E mini**
 
@@ -43,7 +44,7 @@ https://dallemini.com/
 
 **DiffusionBee**
 
-Stable Diffusion artwork generator for MacOS.
+*Stable Diffusion artwork generator for MacOS.*
 
 https://diffusionbee.com/
 
@@ -51,7 +52,7 @@ https://diffusionbee.com/
 
 https://apps.apple.com/us/app/el-pintador/
 
-Free Stable Diffusion artwork generator for iOS.
+*Free Stable Diffusion artwork generator for iOS.*
 
 **Stable Diffusion Web**
 
