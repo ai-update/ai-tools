@@ -8,13 +8,13 @@
 
 ## 🎧 Audio 
 
-🗣️ **Whisper**
+### 🗣️ Whisper
 
 *Transcribe audio files.*
 
 > https://replicate.com/openai/whisper
 
-🗣️ **Buzz**
+### 🗣️ Buzz
 
 *Transcribe audio files (offline) in Windows.*
 
@@ -22,13 +22,13 @@
 
 ## 🖳 Coding
 
-🖳 **Codeium**
+### 🖳 Codeium
 
 > https://codeium.com/
 
 ## 🖼 Images
 
-🪰 **Adobe Firefly**
+### 🪰 Adobe Firefly
 
 > https://www.adobe.com/sensei/generative-ai/firefly.html
 
