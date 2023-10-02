@@ -28,7 +28,7 @@ https://codeium.com/
 
 # 🖼 Images
 
-**Adobe Firefly**
+🔥🪰 **Adobe Firefly**
 
 > https://www.adobe.com/sensei/generative-ai/firefly.html
 
