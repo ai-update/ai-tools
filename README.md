@@ -26,34 +26,34 @@ https://github.com/chidiwilliams/buzz/releases
 
 https://codeium.com/
 
-# Images
+# 🖼 Images
 
 **Adobe Firefly**
 
 https://www.adobe.com/sensei/generative-ai/firefly.html
 
-**Craiyon**
+🖌 **Craiyon**
 
 https://www.craiyon.com/
 
 *Artwork generator that uses the Dall-E Mini model.*
 
-**DALL-E mini**
+🎨 **DALL-E mini**
 
 https://dallemini.com/
 
-**DiffusionBee**
+🐝 **DiffusionBee**
 
 *Stable Diffusion artwork generator for MacOS.*
 
 https://diffusionbee.com/
 
-**El Pintador**
+🖌 **El Pintador**
 
 https://apps.apple.com/us/app/el-pintador/
 
 *Free Stable Diffusion artwork generator for iOS.*
 
-**Stable Diffusion Web**
+🌐 **Stable Diffusion Web**
 
 https://stablediffusionweb.com/
