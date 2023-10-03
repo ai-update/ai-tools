@@ -6,6 +6,7 @@ Curated by:
 
 🌐  https://casvanvliet.substack.com
 
+# Tools:
 ## 🎧 Audio 
 
 ### Whisper
