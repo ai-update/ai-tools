@@ -2,7 +2,7 @@
 
 🔧 A collection of tools that use artificial intelligence (A.I.).
 
-✅ This curated collection offers a diverse range of tools to use A.I. effectively.
+Curated by:
 
 🌐  https://casvanvliet.substack.com
 
