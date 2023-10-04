@@ -1,6 +1,6 @@
 # 🔧 Artificial Intelligence Tools
 
-A collection of tools that make use of artificial intelligence.
+A collection of tools that use artificial intelligence.
 
 Curated by:
 
