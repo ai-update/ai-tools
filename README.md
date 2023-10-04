@@ -6,7 +6,7 @@ Curated by:
 
 🌐  https://casvanvliet.substack.com
 
-## Table of Content
+## Table of Contents
 
 - 🎧 Audio 
 - 🖳 Coding
