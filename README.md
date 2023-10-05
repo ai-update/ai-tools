@@ -67,7 +67,7 @@ Curated by:
 
 ### Stable Diffusion Web
 
-*Free online tool that lets you create photo-realistic images from any text input using a latent text-to-image diffusion model.*
+*Free online tool that lets you create photo-realistic images from any text input.*
 
 > https://stablediffusionweb.com/
 
