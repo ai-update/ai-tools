@@ -61,12 +61,12 @@ Curated by:
 
 > https://apps.apple.com/us/app/el-pintador/
 
+### Stable Diffusion Web
+
+> https://stablediffusionweb.com/
+
 ### Tensorflow
 
 *Web-based, playground to experiment with neural networks*
 
 > https://playground.tensorflow.org/
-
-### Stable Diffusion Web
-
-> https://stablediffusionweb.com/
