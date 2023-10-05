@@ -37,6 +37,8 @@ Curated by:
 
 ### Adobe Firefly
 
+*generative machine learning model that is used in the field of design.*
+
 > https://www.adobe.com/sensei/generative-ai/firefly.html
 
 ### Craiyon
@@ -46,6 +48,8 @@ Curated by:
 > https://www.craiyon.com/
 
 ### DALL-E mini
+
+*Text-to-image AI software generating images from any prompt.*
 
 > https://dallemini.com/
 
@@ -62,6 +66,8 @@ Curated by:
 > https://apps.apple.com/us/app/el-pintador/
 
 ### Stable Diffusion Web
+
+*Free online tool that lets you create photo-realistic images from any text input using a latent text-to-image diffusion model.*
 
 > https://stablediffusionweb.com/
 
