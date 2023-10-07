@@ -8,13 +8,13 @@ Curated by:
 
 ## Table of Contents
 
-- 🎧 [Audio](#audio)
+- 🎧 [Audio](#🎧audio)
 - 🖳 [Coding](#coding)
 - 🖼 [Images](#images)
 
 # 🛠️ Tools:
 
-## Audio
+## 🎧 Audio
 
 ### ⚙️ Whisper
 
