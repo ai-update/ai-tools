@@ -26,6 +26,8 @@
 
 ### 🖳 [Codeium](https://codeium.com/)
 
+*Free A.I.-powered toolkit for developers.*
+
 ### 🖳 [Tensorflow](https://playground.tensorflow.org/)
 
 *Web-based, playground to experiment with neural networks*
