@@ -33,6 +33,12 @@ Curated by:
 
 > 🌐 https://codeium.com/
 
+### Tensorflow
+
+*Web-based, playground to experiment with neural networks*
+
+> 🌐 https://playground.tensorflow.org/
+
 ## 🖼 Images
 
 ### Adobe Firefly
@@ -70,9 +76,3 @@ Curated by:
 *Free online tool that lets you create photo-realistic images from any text input.*
 
 > 🌐 https://stablediffusionweb.com/
-
-### Tensorflow
-
-*Web-based, playground to experiment with neural networks*
-
-> 🌐 https://playground.tensorflow.org/
