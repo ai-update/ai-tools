@@ -1,8 +1,8 @@
 # 🔧 Artificial Intelligence Tools
 
-ℹ️ A collection of tools that use artificial intelligence.
+ℹ️ A collection of tools that use artificial intelligence (A.I.).
 
-👀 Curated by [Cas van Vliet](https://casvanvliet.substack.com)
+👀 Curated by [Cas van Vliet](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
@@ -14,17 +14,13 @@
 
 ## Audio
 
-### 🎧 Whisper
+### 🎧 [Whisper](https://replicate.com/openai/whisper)
 
 *Transcribe audio files.*
 
-> 🌐 [https://replicate.com/openai/whisper](https://replicate.com/openai/whisper)
-
-### 🎧 Buzz
+### 🎧 [Buzz](https://github.com/chidiwilliams/buzz/releases)
 
 *Transcribe audio files (offline) in Windows.*
-
-> 🌐 [https://github.com/chidiwilliams/buzz/releases](https://github.com/chidiwilliams/buzz/releases)
 
 ## Coding
 
