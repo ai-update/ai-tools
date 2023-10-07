@@ -26,7 +26,7 @@
 
 ### 🖳 [Codeium](https://codeium.com/)
 
-### 🖳 [Tensorflow]](https://playground.tensorflow.org/)
+### 🖳 [Tensorflow](https://playground.tensorflow.org/)
 
 *Web-based, playground to experiment with neural networks*
 
