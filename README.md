@@ -1,10 +1,8 @@
 # 🔧 Artificial Intelligence Tools
 
-A collection of tools that use artificial intelligence.
+ℹ️ A collection of tools that use artificial intelligence.
 
-Curated by:
-
-🌐 [https://casvanvliet.substack.com](https://casvanvliet.substack.com)
+Curated by [Cas van Vliet]([https://casvanvliet.substack.com](https://casvanvliet.substack.com)
 
 ## Table of Contents
 
