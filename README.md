@@ -14,7 +14,7 @@ Curated by:
 
 # 🛠️ Tools:
 
-## Audio 🎧
+## Audio
 
 ### ⚙️ Whisper
 
