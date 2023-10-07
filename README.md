@@ -12,7 +12,7 @@ Curated by:
 - 🖳 Coding
 - 🖼 Images
 
-# Tools:
+# 🛠️ Tools:
 ## 🎧 Audio 
 
 ### ⚙️ Whisper
