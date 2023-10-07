@@ -26,13 +26,11 @@
 
 ### 🖳 [Codeium](https://codeium.com/)
 
-### 🖳 [Tensorflow]
+### 🖳 [Tensorflow]](https://playground.tensorflow.org/)
 
 *Web-based, playground to experiment with neural networks*
 
-> 🌐 [https://playground.tensorflow.org/](https://playground.tensorflow.org/)
-
-## [Images]
+## Images
 
 ### 🖼 [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
