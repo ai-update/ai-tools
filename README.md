@@ -2,7 +2,7 @@
 
 ℹ️ A collection of tools that use artificial intelligence.
 
-👀 Curated by [Cas van Vliet]([https://casvanvliet.substack.com)
+👀 Curated by [Cas van Vliet](https://casvanvliet.substack.com)
 
 ## Table of Contents
 
