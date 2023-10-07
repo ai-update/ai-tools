@@ -1,4 +1,4 @@
-# 🔧 Artificial Intelligence Tools
+# Artificial Intelligence Tools
 
 ℹ️ A collection of tools that use artificial intelligence (A.I.).
 
@@ -10,7 +10,7 @@
 - 🖳 [Coding](#coding)
 - 🖼 [Images](#images)
 
-# 🛠️ Tools:
+# Tools:
 
 ## Audio
 
@@ -24,50 +24,36 @@
 
 ## Coding
 
-### 🖳 Codeium
+### 🖳 [Codeium](https://codeium.com/)
 
-> 🌐 [https://codeium.com/](https://codeium.com/)
-
-### 🖳 Tensorflow
+### 🖳 [Tensorflow]
 
 *Web-based, playground to experiment with neural networks*
 
 > 🌐 [https://playground.tensorflow.org/](https://playground.tensorflow.org/)
 
-## Images
+## [Images]
 
-### 🖼 Adobe Firefly
+### 🖼 [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
 *Generative machine learning model that is used in the field of design.*
 
-> 🌐 [https://www.adobe.com/sensei/generative-ai/firefly.html](https://www.adobe.com/sensei/generative-ai/firefly.html)
-
-### 🖼 Craiyon
+### 🖼 [Craiyon](https://www.craiyon.com/)
 
 *Artwork generator that uses the Dall-E Mini model.*
 
-> 🌐 [https://www.craiyon.com/](https://www.craiyon.com/)
-
-### 🖼 DALL-E mini
+### 🖼 [DALL-E mini](https://dallemini.com/)
 
 *Text-to-image AI software generating images from any prompt.*
 
-> 🌐 [https://dallemini.com/](https://dallemini.com/)
-
-### 🖼 DiffusionBee
+### 🖼 [DiffusionBee](https://diffusionbee.com/)
 
 *Stable Diffusion artwork generator for MacOS.*
 
-> 🌐 [https://diffusionbee.com/](https://diffusionbee.com/)
-
-### 🖼 El Pintador
+### 🖼 [El Pintador](https://apps.apple.com/us/app/el-pintador/)
 
 *Free Stable Diffusion artwork generator for iOS.*
 
-> 🌐 [https://apps.apple.com/us/app/el-pintador/](https://apps.apple.com/us/app/el-pintador/)
-
-### 🖼 Stable Diffusion Web
+### 🖼 [Stable Diffusion Web](https://stablediffusionweb.com/)
 
 *Free online tool that lets you create photo-realistic images from any text input.*
-
-> 🌐 [https://stablediffusionweb.com/](https://stablediffusionweb.com/)
