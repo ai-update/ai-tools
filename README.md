@@ -14,7 +14,7 @@ Curated by:
 
 # 🛠️ Tools:
 
-## 🎧 Audio
+## Audio
 
 ### ⚙️ Whisper
 
@@ -28,7 +28,7 @@ Curated by:
 
 > 🌐 [https://github.com/chidiwilliams/buzz/releases](https://github.com/chidiwilliams/buzz/releases)
 
-## 🖳 Coding
+## Coding
 
 ### ⚙️ Codeium
 
@@ -40,7 +40,7 @@ Curated by:
 
 > 🌐 [https://playground.tensorflow.org/](https://playground.tensorflow.org/)
 
-## 🖼 Images
+## Images
 
 ### ⚙️ Adobe Firefly
 
