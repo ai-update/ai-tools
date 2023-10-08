@@ -1,6 +1,6 @@
 # Artificial Intelligence Tools
 
-ℹA collection of tools that use artificial intelligence (A.I.).
+A collection of tools that use artificial intelligence (A.I.).
 
 Curated by [Cas van Vliet](https://casvanvliet.substack.com).
 
