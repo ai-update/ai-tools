@@ -2,9 +2,6 @@
 
 ℹ️ A collection of **free tools** that use **A.I.**
 
-🛠️ Need a **custom tool**? 
-> [Get in touch](mailto:workcommunication@duck.com).
-
 👀 Curated by [**Cas van Vliet**](https://casvanvliet.substack.com).
 
 ## Table of Contents
@@ -12,6 +9,11 @@
 - 🎧 [Audio](#audio)
 - 🖳 [Coding](#coding)
 - 🖼 [Images](#images)
+
+## More tools
+
+### 🛠️ [Buy a **custom tool](mailto:workcommunication@duck.com)**
+> 💲 **variable**
 
 # Tools:
 
