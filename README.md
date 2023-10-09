@@ -1,6 +1,6 @@
 # Artificial Intelligence Tools
 
-ℹ️ A collection of **A.I. tools**.
+ℹ️ A collection of **free tools** that use **A.I.**
 
 🛠️ Need a **custom tool**? 
 > [Get in touch](mailto:workcommunication@duck.com).
