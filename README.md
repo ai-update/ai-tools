@@ -2,7 +2,8 @@
 
 ℹ️ A collection of **A.I. tools**.
 
-🛠️ Need a **custom tool**? [Get in touch](mailto:workcommunication@duck.com).
+🛠️ Need a **custom tool**? 
+> [Get in touch](mailto:workcommunication@duck.com).
 
 👀 Curated by [**Cas van Vliet**](https://casvanvliet.substack.com).
 
