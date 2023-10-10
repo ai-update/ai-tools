@@ -27,6 +27,13 @@
 
 *Transcribe audio files (offline) in Windows.*
 
+
+### Translating 
+
+### 📝 [DeepL Translate](https://www.deepl.com/translate)
+
+*Free online tool that lets you create photo-realistic images from any text input.*
+
 ## Text
 
 ### Writing
@@ -72,9 +79,3 @@
 *Free Stable Diffusion artwork generator for iOS.*
 
 ### 🖼 [Stable Diffusion Web](https://stablediffusionweb.com/)
-
-## Translating 
-
-### 📝 [DeepL Translate](https://www.deepl.com/translate)
-
-*Free online tool that lets you create photo-realistic images from any text input.*
