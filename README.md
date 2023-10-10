@@ -64,6 +64,7 @@
 
 ### 🖼 [Craiyon](https://www.craiyon.com/)
 
+*New DALL-E*
 
 ### 🖼 [DALL-E mini](https://dallemini.com/)
 
