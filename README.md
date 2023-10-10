@@ -33,17 +33,18 @@
 
 ### ✍️ [QuillBot](https://quillbot.com/)
 
-*Free paraphrasing tool*
+*Free paraphrasing tool.*
 
 ### ✍️ [DeepL Write](https://www.deepl.com/write)
 
-*Free paraphrasing tool*
+*Free paraphrasing tool.*
 
 ### Translating 
+*Artwork generator that uses the Dall-E Mini model.*
 
 ### 📝 [DeepL Translate](https://www.deepl.com/translate)
 
-*Free translation tool*
+*Free translation tool.*
 
 ## Coding
 
@@ -53,7 +54,7 @@
 
 ### 💻 [Tensorflow](https://playground.tensorflow.org/)
 
-*Web-based, playground to experiment with neural networks*
+*Web-based, playground to experiment with neural networks.*
 
 ## Images
 
@@ -63,7 +64,6 @@
 
 ### 🖼 [Craiyon](https://www.craiyon.com/)
 
-*Artwork generator that uses the Dall-E Mini model.*
 
 ### 🖼 [DALL-E mini](https://dallemini.com/)
 
@@ -78,3 +78,5 @@
 *Free Stable Diffusion artwork generator for iOS.*
 
 ### 🖼 [Stable Diffusion Web](https://stablediffusionweb.com/)
+
+*Free, Web-based version of Stable Diffusion's Image Generator*
