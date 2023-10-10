@@ -43,7 +43,7 @@
 
 ### 📝 [DeepL Translate](https://www.deepl.com/translate)
 
-*Free online tool that lets you create photo-realistic images from any text input.*
+*Free translation tool*
 
 ## Coding
 
