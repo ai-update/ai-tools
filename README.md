@@ -31,11 +31,13 @@
 
 ### Writing
 
+### ✍️ [QuillBot](https://quillbot.com/)
+
+*Free paraphrasing tool*
+
 ### ✍️ [DeepL Write](https://www.deepl.com/write)
 
-### Translating 
-
-### 📝 [DeepL Translate](https://www.deepl.com/translate)
+*Free paraphrasing tool*
 
 ## Coding
 
@@ -70,5 +72,9 @@
 *Free Stable Diffusion artwork generator for iOS.*
 
 ### 🖼 [Stable Diffusion Web](https://stablediffusionweb.com/)
+
+## Translating 
+
+### 📝 [DeepL Translate](https://www.deepl.com/translate)
 
 *Free online tool that lets you create photo-realistic images from any text input.*
