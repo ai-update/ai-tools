@@ -27,13 +27,19 @@
 
 *Transcribe audio files (offline) in Windows.*
 
+## Writing
+
+### ✍️ [DeepL Write](https://www.deepl.com/write)
+
+### 📝 [DeepL Translate](https://www.deepl.com/translate)
+
 ## Coding
 
-### 🖳 [Codeium](https://codeium.com/)
+### 🐱‍💻 [Codeium](https://codeium.com/)
 
 *Free A.I.-powered toolkit for developers.*
 
-### 🖳 [Tensorflow](https://playground.tensorflow.org/)
+### 🐱‍💻 [Tensorflow](https://playground.tensorflow.org/)
 
 *Web-based, playground to experiment with neural networks*
 
