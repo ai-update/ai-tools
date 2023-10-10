@@ -40,7 +40,6 @@
 *Free paraphrasing tool.*
 
 ### Translating 
-*Artwork generator that uses the Dall-E Mini model.*
 
 ### 📝 [DeepL Translate](https://www.deepl.com/translate)
 
@@ -64,7 +63,7 @@
 
 ### 🖼 [Craiyon](https://www.craiyon.com/)
 
-*New DALL-E*
+*Artwork generator that uses the Dall-E Mini model.*
 
 ### 🖼 [DALL-E mini](https://dallemini.com/)
 
