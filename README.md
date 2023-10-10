@@ -27,13 +27,6 @@
 
 *Transcribe audio files (offline) in Windows.*
 
-
-### Translating 
-
-### 📝 [DeepL Translate](https://www.deepl.com/translate)
-
-*Free online tool that lets you create photo-realistic images from any text input.*
-
 ## Text
 
 ### Writing
@@ -45,6 +38,12 @@
 ### ✍️ [DeepL Write](https://www.deepl.com/write)
 
 *Free paraphrasing tool*
+
+### Translating 
+
+### 📝 [DeepL Translate](https://www.deepl.com/translate)
+
+*Free online tool that lets you create photo-realistic images from any text input.*
 
 ## Coding
 
