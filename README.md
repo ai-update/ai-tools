@@ -29,9 +29,13 @@
 
 ## Text
 
-### Writing:
+### Writing
 
 ### ✍️ [DeepL Write](https://www.deepl.com/write)
+
+### Translating 
+
+### 📝 [DeepL Translate](https://www.deepl.com/translate)
 
 ## Coding
 
