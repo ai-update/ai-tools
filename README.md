@@ -17,9 +17,9 @@
 ### 🛠️ [Buy a **custom tool**](mailto:workcommunication@duck.com)
 > 💲 **variable**
 
-# Tools:
+# Tools Collection
 
-## Audio
+## Audio:
 
 ### 🎧 [Whisper](https://replicate.com/openai/whisper)
 
@@ -47,7 +47,7 @@
 
 *Free translation tool.*
 
-## Coding
+## Coding:
 
 ### 💻 [Codeium](https://codeium.com/)
 
@@ -57,7 +57,7 @@
 
 *Web-based, playground to experiment with neural networks.*
 
-## Images
+## Images:
 
 ### 🖼 [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
@@ -82,6 +82,5 @@
 ### 🖼 [Stable Diffusion Web](https://stablediffusionweb.com/)
 
 *Free, Web-based version of Stable Diffusion's Image Generator*
-
 
 ![image](https://github.com/cas-van-vliet/ai-tools/assets/146363448/ea352ebb-50ba-41d0-8ef6-59b2553699c7)
