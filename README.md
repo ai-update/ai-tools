@@ -8,9 +8,9 @@
 
 ## Table of Contents
 
-- 🎧 [Audio](#audio)
-- 🖳 [Coding](#coding)
-- 🖼 [Images](#images)
+- 🎧 **[Audio](#audio)**
+- 🖳 **[Coding](#coding)**
+- 🖼 **[Images](#images)**
 
 ## More tools
 
@@ -82,3 +82,6 @@
 ### 🖼 [Stable Diffusion Web](https://stablediffusionweb.com/)
 
 *Free, Web-based version of Stable Diffusion's Image Generator*
+
+
+![image](https://github.com/cas-van-vliet/ai-tools/assets/146363448/ea352ebb-50ba-41d0-8ef6-59b2553699c7)
