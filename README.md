@@ -19,7 +19,7 @@
 
 # Tools Collection
 
-## Audio:
+## Audio
 
 ### 🎧 [Whisper](https://replicate.com/openai/whisper)
 
@@ -47,7 +47,7 @@
 
 *Free translation tool.*
 
-## Coding:
+## Coding
 
 ### 💻 [Codeium](https://codeium.com/)
 
@@ -57,7 +57,7 @@
 
 *Web-based, playground to experiment with neural networks.*
 
-## Images:
+## Images
 
 ### 🖼 [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
