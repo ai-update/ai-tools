@@ -1,7 +1,5 @@
 # Artificial Intelligence Tools
 
-![image](https://github.com/cas-van-vliet/ai-tools/assets/146363448/0f2628f6-47d3-460c-981a-e3a7a99a2215)
-
 ℹ️ A collection of **free tools** that use **A.I.**
 
 👀 Curated by [**Cas van Vliet**](https://casvanvliet.substack.com).
