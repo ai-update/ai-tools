@@ -82,3 +82,5 @@
 ### 🖼 [Stable Diffusion Web](https://stablediffusionweb.com/)
 
 *Free, Web-based version of Stable Diffusion's Image Generator*
+
+![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/19f7dc8e-23c1-4160-b6d8-304ab0aaaa5f)
