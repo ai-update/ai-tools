@@ -21,6 +21,10 @@
 
 ## Audio
 
+### 🎧 [Stable Audio](https://www.stableaudio.com/)
+
+*Create music*
+
 ### 🎧 [Whisper](https://replicate.com/openai/whisper)
 
 *Transcribe audio files.*
