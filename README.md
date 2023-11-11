@@ -14,7 +14,7 @@
 
 ## More tools
 
-### 🛠️ [Buy a **custom tool**](mailto:workcommunication@duck.com)
+🛠️ [Buy a **custom tool**](mailto:workcommunication@duck.com)
 > 💲 **variable**
 
 # Tools Collection
