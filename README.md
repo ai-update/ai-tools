@@ -17,7 +17,7 @@
 🛠️ [Buy a **custom tool**](mailto:workcommunication@duck.com)
 > 💲 **variable**
 
-# Tools Collection
+# Tools:
 
 ## Audio
 
